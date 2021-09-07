@@ -5,7 +5,10 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "jest": "^25.5.4"
   },
   "scripts": {
     "test": "jest",
@@ -14,7 +17,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^26.6.3"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abigailroberg/u-develop-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abigailroberg/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/abigailroberg/u-develop-it#readme"
 }
