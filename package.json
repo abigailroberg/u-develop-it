@@ -1,0 +1,28 @@
+{
+  "name": "vote-api",
+  "version": "1.0.0",
+  "description": "Back-end APIs for a voting app.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "jest": "^25.5.4"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abigailroberg/u-develop-it.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abigailroberg/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/abigailroberg/u-develop-it#readme"
+}
